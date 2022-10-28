@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<School>
+  <Student gender="Male">
+    <name type="fullname">Ahmed Ali</name>
+    <age>10</age>
+    <degree>95/100</degree>
+  </Student>
+  <Student gender="Female">
+    <name type="fullname">Sara Emad</name>
+    <age>11</age>
+    <degree>90/100</degree>
+  </Student>
+  <Student gender="Female">
+    <name type="fullname">Rana Ahmed</name>
+    <age>12</age>
+    <degree>85/100</degree>
+  </Student>
+</School>
